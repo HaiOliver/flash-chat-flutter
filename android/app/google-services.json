@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "147144776442",
+    "firebase_url": "https://flutter-chat-e534c.firebaseio.com",
+    "project_id": "flutter-chat-e534c",
+    "storage_bucket": "flutter-chat-e534c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147144776442:android:a040cbfd07b1ceb1684743",
+        "android_client_info": {
+          "package_name": "co.Oliver.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147144776442-uolgu263f7dcekem8s04c6el21vro6cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCTUAdj6YLRhwm4r_8jXOBZTbrfJJKZvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147144776442-uolgu263f7dcekem8s04c6el21vro6cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
